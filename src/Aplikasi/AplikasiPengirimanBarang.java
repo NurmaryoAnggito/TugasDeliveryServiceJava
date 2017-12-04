@@ -442,7 +442,7 @@ public class AplikasiPengirimanBarang extends javax.swing.JFrame {
 
         jLabel43.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
         jLabel43.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel43.setText("DATAP ENGIRIM");
+        jLabel43.setText("DATAP PENGIRIM");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);

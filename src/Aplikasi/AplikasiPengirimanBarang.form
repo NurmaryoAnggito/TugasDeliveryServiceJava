@@ -618,7 +618,7 @@
               <Font name="Tahoma" size="18" style="1"/>
             </Property>
             <Property name="horizontalAlignment" type="int" value="0"/>
-            <Property name="text" type="java.lang.String" value="DATAP ENGIRIM"/>
+            <Property name="text" type="java.lang.String" value="DATAP PENGIRIM"/>
           </Properties>
         </Component>
       </SubComponents>
