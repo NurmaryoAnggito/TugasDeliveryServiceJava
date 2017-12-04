@@ -10,9 +10,7 @@ import Model.Penerima;
 import Model.Pengirim;
 import Model.Tarif;
 import Perhitungan.Perhitungan;
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Date;
 
 /**
  *
